@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolello</h1>
-<h3 align="center">A Web and Python developer with 3+ years of experience</h3>
+<h3 align="center">A Web and Python developer with 4 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolello-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nicolello-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolello-dev" alt="nicolello-dev" /></a> </p>
 
-- 🔭 I’m currently working on [knowurteacher](https://knowurteacher.com), a website where you can read and review your teachers when evaluating
+- 🔭 I’m currently working on [deepscribes](https://www.deepscribes.com), an online learning platform to transcribe your lectures
 
 - 👨‍💻 All of my projects are available at [https://www.nicolello.dev](https://www.nicolello.dev)
 
