@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.nicolello.dev](https://www.nicolello.dev)
 
-- 📫 You can reach me @ **nicolamigone179@gmail.com**
+- 📫 You can reach me @ [me@nicolello.dev](mailto:nicolello.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
