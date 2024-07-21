@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolello-dev" alt="nicolello-dev" /></a> </p>
 
-- 🔭 I’m currently working on [deepscribes](https://www.deepscribes.com), an online learning platform to transcribe your lectures
+- 🔭 I’m currently working on [deepscribes](https://www.medquizz.it), an online learning platform for med students to prepare for the entry test.
 
 - 👨‍💻 All of my projects are available at [https://www.nicolello.dev](https://www.nicolello.dev)
 
