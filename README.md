@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolello-dev" alt="nicolello-dev" /></a> </p>
 
-- 🔭 I’m currently working on [medquizz](https://www.medquizz.it), an online learning platform for med students to prepare for the entry test.
+- ⚒️ Upcoming Amazon SWE Intern
 
-- 👨‍💻 All of my projects are available at [https://www.nicolello.dev](https://www.nicolello.dev)
+- 🔭 I’m currently working on [deepscribes](https://www.deepscribes.com), an online platforms for students to transcribe their lectures and takes notes from them.
 
-- 📫 You can reach me @ [me@nicolello.dev](mailto:nicolello.dev)
+- 👨‍💻 Main projects are available at [https://www.nicolello.dev](https://www.nicolello.dev)
+
+- 📫 You can reach me @ [me@nicolello.dev](mailto:me@nicolello.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
