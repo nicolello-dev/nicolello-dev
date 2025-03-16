@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolello-dev" alt="nicolello-dev" /></a> </p>
 
-- ⚒️ Upcoming Amazon SWE Intern
+- ⚒️ SWE Intern @ Amazon Business
 
 - 🔭 I’m currently working on [deepscribes](https://www.deepscribes.com), an online platforms for students to transcribe their lectures and takes notes from them.
 
